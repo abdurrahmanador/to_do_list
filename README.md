@@ -2,6 +2,7 @@
 
 To do List!
 
+an initial clone project as a flutter Developer!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
